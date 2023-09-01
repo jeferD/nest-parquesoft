@@ -1,0 +1,27 @@
+next js 
+
+Dario Chamorro
+
+
+
+
+estefani nit crome - profersor juan 
+
+expirian - 
+
+sofos solution
+
+
+Servidor: prestar servicio
+cliente: consumir el servicio
+
+la midel end es una capa intermedia entre el backend y frontend
+
+el midel es un usuario mas para consumir el backend que va tener una mejor seguridad
+
+
+request -> solicitud
+
+
+
+
