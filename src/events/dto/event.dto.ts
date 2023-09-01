@@ -6,7 +6,7 @@ export class EventDto {
     name: string;
     @IsNotEmpty()
     description: string;
-    @IsDate()
+    // @IsDate()
     date: string;
     @IsUrl()
     images: string;

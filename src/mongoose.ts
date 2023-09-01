@@ -1,0 +1,13 @@
+import * as mongoose from 'mongoose';
+
+export const UserSchema = new mongoose.Schema({
+  name: String,
+  email: String,
+  // otros campos
+});
+
+export interface User extends mongoose.Document {
+  name: string;
+  email: string;
+  // otros campos
+}
